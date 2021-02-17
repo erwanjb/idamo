@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biens>
+    <bien>
+        <reference_a_afficher>
+            <![CDATA[1-IDAMO]]>
+        </reference_a_afficher>
+        <reference_technique>
+            <![CDATA[VA1904-IDAMO]]>
+        </reference_technique>
+        <reference_programme>
+            <![CDATA[]]>
+        </reference_programme>
+        <titre>
+            <![CDATA[test ]]>
+        </titre>
+        <description>
+            <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. Pellentesque rhoncus aliquam mattis. Ut vulputate eros sed felis sodales nec vulputate justo hendrerit. Vivamus varius pretium ligula, a aliquam odio euismod sit amet. Quisque laoreet sem sit amet orci ullamcorper at ultricies metus viverra. Pellentesque arcu mauris, malesuada quis ornare accumsan, blandit sed diam.]]>
+        </description>
+        <accroche>
+            <![CDATA[Exclusivité]]>
+        </accroche>
+        <surface_habitable>
+            <![CDATA[45]]>
+        </surface_habitable>
+        <surface_habitable_formatee>
+            <![CDATA[45 m²]]>
+        </surface_habitable_formatee>
+        <nb_sdb>
+            <![CDATA[1]]>
+        </nb_sdb>
+        <nb_sdb_formatee>
+            <![CDATA[Salles de bain : 1]]>
+        </nb_sdb_formatee>
+        <nb_sde>
+            <![CDATA[0]]>
+        </nb_sde>
+        <nb_sde_formatee>
+            <![CDATA[]]>
+        </nb_sde_formatee>
+        <ascenseur>
+            <![CDATA[1]]>
+        </ascenseur>
+        <ascenseur_formatee>
+            <![CDATA[Oui]]>
+        </ascenseur_formatee>
+        <wc>
+            <![CDATA[1]]>
+        </wc>
+        <wc_formatee>
+            <![CDATA[Toilettes : 1]]>
+        </wc_formatee>
+        <surface_jardin>
+            <![CDATA[0]]>
+        </surface_jardin>
+        <surface_jardin_formatee>
+            <![CDATA[]]>
+        </surface_jardin_formatee>
+        <surface_terrain>
+            <![CDATA[]]>
+        </surface_terrain>
+        <surface_terrain_formatee>
+            <![CDATA[]]>
+        </surface_terrain_formatee>
+        <piscine>
+            <![CDATA[]]>
+        </piscine>
+        <piscine_formatee>
+            <![CDATA[Piscine : Non]]>
+        </piscine_formatee>
+        <cave>
+            <![CDATA[]]>
+        </cave>
+        <cave_formatee>
+            <![CDATA[Cave : Non]]>
+        </cave_formatee>
+        <stationnement_interne>
+            <![CDATA[0]]>
+        </stationnement_interne>
+        <stationnement_interne_formatee>
+            <![CDATA[]]>
+        </stationnement_interne_formatee>
+        <stationnement_externe>
+            <![CDATA[0]]>
+        </stationnement_externe>
+        <stationnement_externe_formatee>
+            <![CDATA[]]>
+        </stationnement_externe_formatee>
+        <nb_balcon>
+            <![CDATA[1]]>
+        </nb_balcon>
+        <nb_balcon_formatee>
+            <![CDATA[Balcon : 1]]>
+        </nb_balcon_formatee>
+        <surface_balcon>
+            <![CDATA[0]]>
+        </surface_balcon>
+        <surface_balcon_formatee>
+            <![CDATA[]]>
+        </surface_balcon_formatee>
+        <nb_terrasse>
+            <![CDATA[0]]>
+        </nb_terrasse>
+        <nb_terrasse_formatee>
+            <![CDATA[]]>
+        </nb_terrasse_formatee>
+        <surface_terrasse>
+            <![CDATA[0]]>
+        </surface_terrasse>
+        <surface_terrasse_formatee>
+            <![CDATA[]]>
+        </surface_terrasse_formatee>
+        <etage>
+            <![CDATA[4]]>
+        </etage>
+        <etage_formatee>
+            <![CDATA[Étage : 4]]>
+        </etage_formatee>
+        <nb_etage>
+            <![CDATA[6]]>
+        </nb_etage>
+        <nb_etage_formatee>
+            <![CDATA[Étages : 6]]>
+        </nb_etage_formatee>
+        <vue>
+            <![CDATA[]]>
+        </vue>
+        <vue_formatee>
+            <![CDATA[]]>
+        </vue_formatee>
+        <nb_piece>
+            <![CDATA[2]]>
+        </nb_piece>
+        <nb_piece_formatee>
+            <![CDATA[Pièces : 2]]>
+        </nb_piece_formatee>
+        <nb_chambre>
+            <![CDATA[1]]>
+        </nb_chambre>
+        <nb_chambre_formatee>
+            <![CDATA[Chambres : 1]]>
+        </nb_chambre_formatee>
+        <code_postal>
+            <![CDATA[75009]]>
+        </code_postal>
+        <code_postal_formatee>
+            <![CDATA[Code Postal : 75009]]>
+        </code_postal_formatee>
+        <ville>
+            <![CDATA[Paris,Paris]]>
+        </ville>
+        <type_annonce>
+            <![CDATA[Vente]]>
+        </type_annonce>
+        <type_prod>
+            <![CDATA[Appartement]]>
+        </type_prod>
+        <nom_a_afficher>
+            <![CDATA[Mickael DE ROECK]]>
+        </nom_a_afficher>
+        <email_a_afficher>
+            <![CDATA[mickael.deroeck@idamo.fr]]>
+        </email_a_afficher>
+        <tel_a_afficher>
+            <![CDATA[0782438678]]>
+        </tel_a_afficher>
+        <prix>
+            <![CDATA[480000]]>
+        </prix>
+        <prix_formatee>
+            <![CDATA[480000 €]]>
+        </prix_formatee>
+        <loyer>
+            <![CDATA[]]>
+        </loyer>
+        <loyer_formatee>
+            <![CDATA[]]>
+        </loyer_formatee>
+        <charges>
+            <![CDATA[0]]>
+        </charges>
+        <cuisine>
+            <![CDATA[Partiellement équipée]]>
+        </cuisine>
+        <cuisine_formatee>
+            <![CDATA[Cuisine : Partiellement équipée]]>
+        </cuisine_formatee>
+        <type_cuisine>
+            <![CDATA[]]>
+        </type_cuisine>
+        <type_cuisine_formatee>
+            <![CDATA[]]>
+        </type_cuisine_formatee>
+        <type_chauffage>
+            <![CDATA[]]>
+        </type_chauffage>
+        <type_chauffage_formatee>
+            <![CDATA[]]>
+        </type_chauffage_formatee>
+        <ameublement>
+            <![CDATA[]]>
+        </ameublement>
+        <ameublement_formatee>
+            <![CDATA[]]>
+        </ameublement_formatee>
+        <mise_en_avant>
+            <![CDATA[0]]>
+        </mise_en_avant>
+        <mise_en_avant_formatee>
+            <![CDATA[Mise en avant : Non]]>
+        </mise_en_avant_formatee>
+        <luxe>
+            <![CDATA[0]]>
+        </luxe>
+        <luxe_formatee>
+            <![CDATA[Prestige, luxe : Non]]>
+        </luxe_formatee><video>
+            <![CDATA[]]>
+        </video>
+        <visite_virtuelle>
+            <![CDATA[]]>
+        </visite_virtuelle>
+        <annee>
+            <![CDATA[0]]>
+        </annee>
+        <latitude>
+            <![CDATA[]]>
+        </latitude>
+        <longitude>
+            <![CDATA[]]>
+        </longitude>
+        <bilan_energie>
+            <![CDATA[]]>
+        </bilan_energie>
+        <bilan_energie_formatee>
+            <![CDATA[]]>
+        </bilan_energie_formatee>
+        <valeur_energie>
+            <![CDATA[0]]>
+        </valeur_energie>
+        <valeur_energie_formatee>
+            <![CDATA[]]>
+        </valeur_energie_formatee>
+        <bilan_ges>
+            <![CDATA[]]>
+        </bilan_ges>
+        <bilan_ges_formatee>
+            <![CDATA[]]>
+        </bilan_ges_formatee>
+        <valeur_ges>
+            <![CDATA[0]]>
+        </valeur_ges>
+        <valeur_ges_formatee>
+            <![CDATA[]]>
+        </valeur_ges_formatee>
+        <secteur>
+            <![CDATA[]]>
+        </secteur>
+        <secteur_formatee>
+            <![CDATA[]]>
+        </secteur_formatee>
+        <adresse_mandataire>
+            <![CDATA[4 rue Mansart]]>
+        </adresse_mandataire>
+        <adresse_mandataire_formatee>
+            <![CDATA[Adresse : 4 rue Mansart]]>
+        </adresse_mandataire_formatee>
+        <cp_mandataire>
+            <![CDATA[]]>
+        </cp_mandataire>
+        <cp_mandataire_formatee>
+            <![CDATA[]]>
+        </cp_mandataire_formatee>
+        <ville_mandataire>
+            <![CDATA[Paris]]>
+        </ville_mandataire>
+        <ville_mandataire_formatee>
+            <![CDATA[Ville : Paris]]>
+        </ville_mandataire_formatee>
+        <telephone_mandataire>
+            <![CDATA[0782438678]]>
+        </telephone_mandataire>
+        <telephone_mandataire_formatee>
+            <![CDATA[Téléphone : 0782438678]]>
+        </telephone_mandataire_formatee>
+        <sous_type_prod>
+            <![CDATA[T1]]>
+        </sous_type_prod>
+        <sous_type_prod_formatee>
+            <![CDATA[Sous-type : T1]]>
+        </sous_type_prod_formatee>
+        <exposition>
+            <![CDATA[]]>
+        </exposition>
+        <exposition_formatee>
+            <![CDATA[]]>
+        </exposition_formatee>
+        <points_forts>
+            <![CDATA[]]>
+        </points_forts>
+        <points_forts_formatee>
+            <![CDATA[]]>
+        </points_forts_formatee>
+        <conditions_visite>
+            <![CDATA[]]>
+        </conditions_visite>
+        <chauffages />
+        <climatisations />
+        <images>
+            <image id="1">https://img.netty.immo/productw/idamo/2/VA1904/1611676784_VA1904_1_l.jpg</image>
+            <image id="2">https://img.netty.immo/productw/idamo/2/VA1904/1611676725_VA1904_2_l.jpg</image>
+        </images>
+    </bien>
+    <bien>
+        <reference_a_afficher>
+            <![CDATA[2021020301-IDAMO]]>
+        </reference_a_afficher>
+        <reference_technique>
+            <![CDATA[VA1906-IDAMO]]>
+        </reference_technique>
+        <reference_programme>
+            <![CDATA[]]>
+        </reference_programme>
+        <titre>
+            <![CDATA[Denfert Rochereau]]>
+        </titre>
+        <description>
+            <![CDATA[Idamo vous propose à la vente ce 4 pièces d'une surface de 100 m2 Carrez, situé Rue Leclerc à Paris. L’appartement est situé au 5ème étage d'un immeuble années 90. Les parties communes de l'appartement ont été rénovées il y'a moins d'un an. Un ascenseur est présent dans l’immeuble.<br><br>Le bien se compose d'un grand séjour exposé nord, d'un balcon filant de 7 m2 rattaché au séjour et à l'une des chambres, de 3 chambres dont 2 donnant sur cour, d’une cuisine séparée, équipée et fonctionnelle, de deux salle d'eau dont une avec baignoire. Ce bien comporte également des toilettes séparées.<br><br>Une cave complète ce bien.<br><br>Bien idéalement situé dans un quartier commerçant et touristique, parfaitement desservi par les transports (ligne 13).À proximité directe du square des Epinettes, l’appartement est au coeur de l’écosystème parisien.<br><br>Le système de chauffage est individuel, électrique.<br><br>Les charges de copropriété s'élèvent à 950 € par trimestre.<br>La taxe foncière est de 1200 €.<br><br>Le bien est soumis au statut de copropriété.<br><br>Chez Idamo, on vous évite des appels inutiles, et on vous fait gagner du temps : des annonces exhaustives pour trouver toutes les réponses à vos questions, une visite virtuelle, la prise de visite en ligne au moment qui vous arrange. C'est plus pratique et plus rapide<br><br>Idamo s'efforce de réinventer l’agence immobilière en offrant un service innovant et transparent aux acheteurs et aux vendeurs.<br>Nos frais d'agence sont de 30000 euros à la charge du vendeur.]]>
+        </description>
+        <accroche>
+            <![CDATA[Exclusivité]]>
+        </accroche>
+        <surface_habitable>
+            <![CDATA[100]]>
+        </surface_habitable>
+        <surface_habitable_formatee>
+            <![CDATA[100 m²]]>
+        </surface_habitable_formatee>
+        <nb_sdb>
+            <![CDATA[1]]>
+        </nb_sdb>
+        <nb_sdb_formatee>
+            <![CDATA[Salles de bain : 1]]>
+        </nb_sdb_formatee>
+        <nb_sde>
+            <![CDATA[0]]>
+        </nb_sde>
+        <nb_sde_formatee>
+            <![CDATA[]]>
+        </nb_sde_formatee>
+        <ascenseur>
+            <![CDATA[1]]>
+        </ascenseur>
+        <ascenseur_formatee>
+            <![CDATA[Oui]]>
+        </ascenseur_formatee>
+        <wc>
+            <![CDATA[1]]>
+        </wc>
+        <wc_formatee>
+            <![CDATA[Toilettes : 1]]>
+        </wc_formatee>
+        <surface_jardin>
+            <![CDATA[0]]>
+        </surface_jardin>
+        <surface_jardin_formatee>
+            <![CDATA[]]>
+        </surface_jardin_formatee>
+        <surface_terrain>
+            <![CDATA[]]>
+        </surface_terrain>
+        <surface_terrain_formatee>
+            <![CDATA[]]>
+        </surface_terrain_formatee>
+        <piscine>
+            <![CDATA[]]>
+        </piscine>
+        <piscine_formatee>
+            <![CDATA[Piscine : Non]]>
+        </piscine_formatee>
+        <cave>
+            <![CDATA[1]]>
+        </cave>
+        <cave_formatee>
+            <![CDATA[Cave : Oui]]>
+        </cave_formatee>
+        <stationnement_interne>
+            <![CDATA[0]]>
+        </stationnement_interne>
+        <stationnement_interne_formatee>
+            <![CDATA[]]>
+        </stationnement_interne_formatee>
+        <stationnement_externe>
+            <![CDATA[0]]>
+        </stationnement_externe>
+        <stationnement_externe_formatee>
+            <![CDATA[]]>
+        </stationnement_externe_formatee>
+        <nb_balcon>
+            <![CDATA[1]]>
+        </nb_balcon>
+        <nb_balcon_formatee>
+            <![CDATA[Balcon : 1]]>
+        </nb_balcon_formatee>
+        <surface_balcon>
+            <![CDATA[0]]>
+        </surface_balcon>
+        <surface_balcon_formatee>
+            <![CDATA[]]>
+        </surface_balcon_formatee>
+        <nb_terrasse>
+            <![CDATA[1]]>
+        </nb_terrasse>
+        <nb_terrasse_formatee>
+            <![CDATA[Terasse : 1]]>
+        </nb_terrasse_formatee>
+        <surface_terrasse>
+            <![CDATA[0]]>
+        </surface_terrasse>
+        <surface_terrasse_formatee>
+            <![CDATA[]]>
+        </surface_terrasse_formatee>
+        <etage>
+            <![CDATA[5]]>
+        </etage>
+        <etage_formatee>
+            <![CDATA[Étage : 5]]>
+        </etage_formatee>
+        <nb_etage>
+            <![CDATA[6]]>
+        </nb_etage>
+        <nb_etage_formatee>
+            <![CDATA[Étages : 6]]>
+        </nb_etage_formatee>
+        <vue>
+            <![CDATA[Ville]]>
+        </vue>
+        <vue_formatee>
+            <![CDATA[Vue : Ville]]>
+        </vue_formatee>
+        <nb_piece>
+            <![CDATA[4]]>
+        </nb_piece>
+        <nb_piece_formatee>
+            <![CDATA[Pièces : 4]]>
+        </nb_piece_formatee>
+        <nb_chambre>
+            <![CDATA[2]]>
+        </nb_chambre>
+        <nb_chambre_formatee>
+            <![CDATA[Chambres : 2]]>
+        </nb_chambre_formatee>
+        <code_postal>
+            <![CDATA[75014]]>
+        </code_postal>
+        <code_postal_formatee>
+            <![CDATA[Code Postal : 75014]]>
+        </code_postal_formatee>
+        <ville>
+            <![CDATA[Paris]]>
+        </ville>
+        <type_annonce>
+            <![CDATA[Vente]]>
+        </type_annonce>
+        <type_prod>
+            <![CDATA[Appartement]]>
+        </type_prod>
+        <nom_a_afficher>
+            <![CDATA[Mickael DE ROECK]]>
+        </nom_a_afficher>
+        <email_a_afficher>
+            <![CDATA[mickael.deroeck@idamo.fr]]>
+        </email_a_afficher>
+        <tel_a_afficher>
+            <![CDATA[0782438678]]>
+        </tel_a_afficher>
+        <prix>
+            <![CDATA[1000000]]>
+        </prix>
+        <prix_formatee>
+            <![CDATA[1000000 €]]>
+        </prix_formatee>
+        <loyer>
+            <![CDATA[]]>
+        </loyer>
+        <loyer_formatee>
+            <![CDATA[]]>
+        </loyer_formatee>
+        <charges>
+            <![CDATA[0]]>
+        </charges>
+        <cuisine>
+            <![CDATA[Aménagée et équipée]]>
+        </cuisine>
+        <cuisine_formatee>
+            <![CDATA[Cuisine : Aménagée et équipée]]>
+        </cuisine_formatee>
+        <type_cuisine>
+            <![CDATA[Indépendante]]>
+        </type_cuisine>
+        <type_cuisine_formatee>
+            <![CDATA[Type de cuisine : Indépendante]]>
+        </type_cuisine_formatee>
+        <type_chauffage>
+            <![CDATA[]]>
+        </type_chauffage>
+        <type_chauffage_formatee>
+            <![CDATA[]]>
+        </type_chauffage_formatee>
+        <ameublement>
+            <![CDATA[Non meublé]]>
+        </ameublement>
+        <ameublement_formatee>
+            <![CDATA[Ameublement : Non meublé]]>
+        </ameublement_formatee>
+        <mise_en_avant>
+            <![CDATA[0]]>
+        </mise_en_avant>
+        <mise_en_avant_formatee>
+            <![CDATA[Mise en avant : Non]]>
+        </mise_en_avant_formatee>
+        <luxe>
+            <![CDATA[0]]>
+        </luxe>
+        <luxe_formatee>
+            <![CDATA[Prestige, luxe : Non]]>
+        </luxe_formatee><video>
+            <![CDATA[]]>
+        </video>
+        <visite_virtuelle>
+            <![CDATA[https://www.youtube.com/watch?v=hpysGhM7RK8]]>
+        </visite_virtuelle>
+        <annee>
+            <![CDATA[1990]]>
+        </annee>
+        <latitude>
+            <![CDATA[]]>
+        </latitude>
+        <longitude>
+            <![CDATA[]]>
+        </longitude>
+        <bilan_energie>
+            <![CDATA[A]]>
+        </bilan_energie>
+        <bilan_energie_formatee>
+            <![CDATA[Bilan énergétique : A]]>
+        </bilan_energie_formatee>
+        <valeur_energie>
+            <![CDATA[10]]>
+        </valeur_energie>
+        <valeur_energie_formatee>
+            <![CDATA[Conso. énergétique : 10 kWhEP/m2 /an]]>
+        </valeur_energie_formatee>
+        <bilan_ges>
+            <![CDATA[C]]>
+        </bilan_ges>
+        <bilan_ges_formatee>
+            <![CDATA[Bilan Ges : C]]>
+        </bilan_ges_formatee>
+        <valeur_ges>
+            <![CDATA[20]]>
+        </valeur_ges>
+        <valeur_ges_formatee>
+            <![CDATA[Emissions GES : 20 kgéqCO2/m2 /an]]>
+        </valeur_ges_formatee>
+        <secteur>
+            <![CDATA[]]>
+        </secteur>
+        <secteur_formatee>
+            <![CDATA[]]>
+        </secteur_formatee>
+        <adresse_mandataire>
+            <![CDATA[4 rue Mansart]]>
+        </adresse_mandataire>
+        <adresse_mandataire_formatee>
+            <![CDATA[Adresse : 4 rue Mansart]]>
+        </adresse_mandataire_formatee>
+        <cp_mandataire>
+            <![CDATA[]]>
+        </cp_mandataire>
+        <cp_mandataire_formatee>
+            <![CDATA[]]>
+        </cp_mandataire_formatee>
+        <ville_mandataire>
+            <![CDATA[Paris]]>
+        </ville_mandataire>
+        <ville_mandataire_formatee>
+            <![CDATA[Ville : Paris]]>
+        </ville_mandataire_formatee>
+        <telephone_mandataire>
+            <![CDATA[0782438678]]>
+        </telephone_mandataire>
+        <telephone_mandataire_formatee>
+            <![CDATA[Téléphone : 0782438678]]>
+        </telephone_mandataire_formatee>
+        <sous_type_prod>
+            <![CDATA[T4]]>
+        </sous_type_prod>
+        <sous_type_prod_formatee>
+            <![CDATA[Sous-type : T4]]>
+        </sous_type_prod_formatee>
+        <exposition>
+            <![CDATA[TRAVERSANT]]>
+        </exposition>
+        <exposition_formatee>
+            <![CDATA[TRAVERSANT]]>
+        </exposition_formatee>
+        <points_forts>
+            <![CDATA[]]>
+        </points_forts>
+        <points_forts_formatee>
+            <![CDATA[]]>
+        </points_forts_formatee>
+        <conditions_visite>
+            <![CDATA[https://calendly.com/mickael_deroeck/entretien]]>
+        </conditions_visite>
+        <chauffages>
+            <chauffage>
+                <![CDATA[Electrique]]>
+            </chauffage>
+            <chauffage_formatee>
+                <![CDATA[Chauffage : Electrique]]>
+            </chauffage_formatee>
+        </chauffages>
+        <climatisations />
+        <images>
+            <image id="1">https://img.netty.immo/productw/idamo/2/VA1906/1612347138_VA1906_1_l.jpg</image>
+            <image id="2">https://img.netty.immo/productw/idamo/2/VA1906/1612347124_VA1906_2_l.jpg</image>
+            <image id="3">https://img.netty.immo/productw/idamo/2/VA1906/1612347101_VA1906_3_l.jpg</image>
+            <image id="4">https://img.netty.immo/productw/idamo/2/VA1906/1612347153_VA1906_4_l.jpg</image>
+            <image id="5">https://img.netty.immo/productw/idamo/2/VA1906/1612347166_VA1906_5_l.jpg</image>
+        </images>
+    </bien>
+</biens>

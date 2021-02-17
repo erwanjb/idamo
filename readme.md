@@ -5,6 +5,8 @@
 - NODE_ENV => development ou production
 - PORT => port du server node (back) (optionel defaut 8080)
 - DEV_CLIENT_PORT => port du client en mode dévelopement (optionel defaut 8000)
+- DB_URL => L'url de base Mongodb
+- DB_NAME => Nom de la base de donnée Mongodb (optionel defaut idamo)
 
 ## Les Commandes
 - pour build les dépendances `npm install`
