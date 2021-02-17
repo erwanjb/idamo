@@ -7,6 +7,7 @@
 - DEV_CLIENT_PORT => port du client en mode dévelopement (optionel defaut 8000)
 - DB_URL => L'url de base Mongodb
 - DB_NAME => Nom de la base de donnée Mongodb (optionel defaut idamo)
+- API_URL => exemple http://localhost/ PORT
 
 ## Les Commandes
 - pour build les dépendances `npm install`
