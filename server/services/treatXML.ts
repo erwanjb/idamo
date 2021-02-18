@@ -3,7 +3,7 @@ import * as fs from 'fs';
 
 export const getXML = async () => {
 
-    const pathToXml = __dirname + '../../assets/idamo.xml';
+    const pathToXml = __dirname + '/../assets/idamo.xml';
 
     const xml = await fs.readFileSync(pathToXml);
 
