@@ -22,7 +22,7 @@ if (!production) {
         origin: process.env.CLIENT_URL
     }))
 } else {
-    app.use('/', express.static(__dirname + '../dist-client'));
+    app.use('/', express.static(__dirname + '/../dist-client'));
 }
 
 app.get('/api/goods', async (_req, res) => {
